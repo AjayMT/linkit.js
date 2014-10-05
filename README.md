@@ -1,5 +1,7 @@
 
 # linkit
+[![Build Status](https://travis-ci.org/AjayMT/linkit.js.svg)](https://travis-ci.org/AjayMT/linkit.js)
+
 Method chaining is nice. Wouldn't it be nicer if it were everywhere?
 
 With linkit, you can chain methods everywhere!
